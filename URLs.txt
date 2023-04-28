@@ -1,3 +1,8 @@
 TREEMAP: https://public.tableau.com/views/GDPsperCapitaoftheWorldbyRegionandCountry/Treemap-GDPsperRegionCountry?:language=en-GB&:display_count=n&:origin=viz_share_link
+Datos: https://www.kaggle.com/datasets/fernandol/countries-of-the-world?resource=download
 
 BULLET GRAPH: https://public.tableau.com/views/AmazonTargetPriceperProduct/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link
+Datos: https://data.world/xfu022/targetamazonfinalshare
+
+ARC DIAGRAM: no está publicado, se encuentra la imagen en Github
+Datos: https://github.com/mathbeveridge/gameofthrones/blob/master/data/got-s1-edges.csv
